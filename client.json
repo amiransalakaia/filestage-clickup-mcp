@@ -1,0 +1,14 @@
+{
+  "client_id": "https://amiransalakaia.github.io/filestage-clickup-mcp/client.json",
+  "client_name": "ClickUp Filestage Integration",
+  "redirect_uris": [
+    "https://search.clickup-prod.com/connect/mcp"
+  ],
+  "grant_types": [
+    "authorization_code"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
